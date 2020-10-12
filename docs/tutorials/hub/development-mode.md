@@ -26,7 +26,7 @@ With your insecure API key, you have everything you need to start building with 
 
 ### Using the API
 
-Now, your users have identities and they've verified themselves. Next, you'll want to start created Buckets and ThreadDBs for your user. Let's start using hte Hub from inside the webapp.
+Now, your users have identities and they've verified themselves. Next, you'll want to start created Buckets and ThreadDBs for your user. Let's start using the Hub from inside the webapp.
 
 **Install dependencies**
 
