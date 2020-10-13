@@ -1,6 +1,6 @@
 # Production mode
 
-You've not had time to build and test your app using the insecure keys described in the [development mode](development-mode.md) section. Now, you want to convert your app to running in production mode. To do so, you'll need to:
+Hope you've had time to build and test your app using the insecure keys described in the [development mode](development-mode.md) section. Now, you want to convert your app to running in production mode. To do so, you'll need to:
 
 1. Generate a new API key and secret that has mandatory signing enabled. 
 2. Set up an authorization endpoint that will hold your API secret and any optional user model for your app.
